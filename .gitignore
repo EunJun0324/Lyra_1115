@@ -80,5 +80,5 @@ LyraStarterGame/Source/*
 LyraStarterGame/Content/*
 LyraStarterGame/Docs/*
 !LyraStarterGame/Content/Custom/
-!LyraStarterGame/Content/Custom/
+!LyraStarterGame/Source/Custom/
 LyraStarterGame/Plugins/*
